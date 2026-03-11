@@ -1,0 +1,32 @@
+body {
+    background-color: #F0FFFC;
+    color: #042E2A;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h3 {
+    text-align: center;
+    color: #042E2A;
+    margin: 0.5em 0;
+}
+
+form {
+    margin-bottom: 1em;
+}
+
+.list-group-item{
+    border-left: 4px solid #2FC4A9;
+    color: #042E2A;
+    margin-bottom: 0.5em;
+    border-radius: 1%;
+}
+
+.container-fluid {
+    background-color: #9bffe8;
+    margin-top: 1em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    border-radius: 8px;
+    max-width: 85%;
+}

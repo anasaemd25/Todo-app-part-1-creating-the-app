@@ -20,7 +20,7 @@ No backend or storage: data is cleared on page reload.
 To add persistence, consider using LocalStorage or a simple backend (Node.js + a JSON file or database).
 
 Demo / Screenshots
-https://raw.githubusercontent.com/anasaemd25/Assignment-To-do-Creating-the-App/refs/heads/main/img/to-do.png
+![To‑do screenshot](img/to-do.png)
 
 Contact
 anas.aemd@gmail.com
